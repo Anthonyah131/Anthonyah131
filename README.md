@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🚀 I am a passionate programmer in training, focused on solving problems and learning new technologies. Currently, I am pursuing a degree in 🎓 Systems Engineering at Universidad Nacional, where I have worked on academic projects that allowed me to apply key concepts of 🌐 web development and ⚙️ backend systems.<br><br>💻 My experience includes:<br><br>📜 A Diploma in IT Applications.<br>🖥️ Practical skills in programming languages like:<br>🟦 TypeScript, 🟨 JavaScript, 🐍 Python, ➕ C++, ☕ Java.<br>⚡ Modern tools such as:<br>⚛️ React, ⬜ Next.js, 🟩 Node.js, 🎨 Tailwind, 🐙 Git.<br>🗂️ Databases (relational and non-relational):<br>🐘 PostgreSQL, 🐬 MySQL, 🐤 CockroachDB, 🍃 MongoDB.<br>☁️ Foundational knowledge of cloud platforms like:<br>🌩️ AWS, 🔵 Microsoft Azure.<br>✏️ Collaborative design with Figma.<br>🗂️ Project management using Notion.<br>🌱 While I don’t yet have professional experience, my academic and self-taught projects have given me the opportunity to work in near-real-world scenarios, developing skills in both frontend and backend development.<br><br>✨ I am highly motivated by web development and seek opportunities as a 💼 Junior Developer to grow, collaborate with talented teams, and bring value through technology. 💡</p>
+<p align="left">🚀 I am a passionate programmer in training, focused on solving problems and learning new technologies. Currently, I am pursuing a degree in 🎓 Systems Engineering at Universidad Nacional, where I have worked on academic projects that allowed me to apply key concepts of 🌐 web development and ⚙️ backend systems.<br><br>💻 My experience includes:<br><br>📜 A Diploma in IT Applications.<br>🖥️ Practical skills in programming languages like:<br>🟦 TypeScript, 🟨 JavaScript, 🐍 Python, ➕ C++, ☕ Java.<br>⚡ Modern tools such as:<br>⚛️ React, ⬜ Next.js, 🟩 Node.js, 🎨 Tailwind, 🐙 Git.<br>🗂️ Databases (relational and non-relational):<br>🐘 PostgreSQL, 🐬 MySQL, 🐤 CockroachDB, 🍃 MongoDB.<br>☁️ Foundational knowledge of cloud platforms like:<br>🌩️ AWS, 🔵 Microsoft Azure.<br>✏️ Collaborative design with Figma.<br>🗂️ Project management using Notion.<br>🌱 While I don’t yet have professional experience, my academic and self-taught projects have given me the opportunity to work in near-real-world scenarios, developing skills in both frontend and backend development.<br><br>✨ I am highly motivated by web development and seek opportunities as a 💼 Junior Developer to grow, collaborate with talented teams, and bring value through technology. 💡</p>
 
 ###
 
@@ -80,15 +80,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Anthonyah131/Anthonyah131/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/AnthonyAH">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=AnthonyAH&count=3&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/anthonyah131">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=anthonyah131&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
