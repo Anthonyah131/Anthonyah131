@@ -68,7 +68,7 @@
   <a href="https://www.instagram.com/anthah_131/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=anthah_131&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/anthonyah-webdev" target="_blank">
+  <a href="https://www.linkedin.com/in/anthonyah-webdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=anthonyah-webdev&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
@@ -90,13 +90,5 @@
 ## <h3 align="center">🏆 GitHub Trophies</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=Anthonyah131&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-
-##
-
-<div align="center">
-  <a href="https://open.spotify.com/user/anthonyah131">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=anthonyah131&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
